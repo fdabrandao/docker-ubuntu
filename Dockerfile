@@ -16,5 +16,6 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get update && \
     python3.5 \
     python3.5-dev \
     python3-pip \
+    python-virtualenv \
     glpk-utils \
     libglpk-dev

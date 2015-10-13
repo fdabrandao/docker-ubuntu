@@ -6,6 +6,7 @@ This repository contains **Dockerfile** of [Ubuntu](http://www.ubuntu.com/) with
 * BitBucket repository: <https://bitbucket.org/fdabrandao/docker-ubuntu>
 * Docker repository: <https://hub.docker.com/r/fdabrandao/docker-ubuntu/>
 
+
 ### Base Docker Image
 
 * [ubuntu:trusty](https://registry.hub.docker.com/u/library/ubuntu/)
@@ -18,6 +19,7 @@ This repository contains **Dockerfile** of [Ubuntu](http://www.ubuntu.com/) with
 * `python3.5`
 * `python-pip`
 * `python3-pip`
+* `python-virtualenv`
 * `glpk-utils`
 * `libglpk-dev`
 
