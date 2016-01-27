@@ -15,6 +15,7 @@ This repository contains **Dockerfile** of [Ubuntu](http://www.ubuntu.com/) with
 ### Additional packages
 
 * `g++-4.8`
+* `automake`
 * `python2.7`
 * `python3.5`
 * `python-pip`

@@ -8,6 +8,7 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get -y dist-upgrade && \
 
 RUN DEBIAN_FRONTEND=noninteractive apt-get update && \
     apt-get -y install \
+    automake \
     make \
     g++-4.8 \
     python2.7 \
