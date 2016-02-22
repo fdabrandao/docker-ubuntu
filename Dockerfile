@@ -11,11 +11,10 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get update && \
     make \
     g++-4.8 \
     python2.7 \
-    python-dev \
     python-pip \
+    python-dev \
     python3.5 \
-    python3.5-dev \
     python3-pip \
+    python3.5-dev \
     python-virtualenv \
-    glpk-utils \
-    libglpk-dev
+    glpk-utils

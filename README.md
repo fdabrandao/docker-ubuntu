@@ -14,15 +14,16 @@ This repository contains **Dockerfile** of [Ubuntu](http://www.ubuntu.com/) with
 
 ### Additional packages
 
+* `make`
 * `g++-4.8`
 * `python2.7`
-* `python3.5`
 * `python-pip`
+* `python-dev`
+* `python3.5`
 * `python3-pip`
+* `python3.5-dev`
 * `python-virtualenv`
 * `glpk-utils`
-* `libglpk-dev`
-
 
 ### Installation
 
